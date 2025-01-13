@@ -105,6 +105,36 @@
       ],
       "tags": [],
       "uuid": "324bb2e0-513b-474b-b2ce-2df9b698055f"
+    },
+    {
+      "start_time": 52,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outdoor view of the walkway between the "
+            },
+            {
+              "text": "Fine Arts Building (FIA)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php"
+            },
+            {
+              "text": " and the "
+            },
+            {
+              "text": "Phoenix Theatre (PNX)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/phoenix-theatre.php"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "319d4701-1e25-4dc6-b409-a1387cca62fc"
     }
   ],
   "set": "Default",
