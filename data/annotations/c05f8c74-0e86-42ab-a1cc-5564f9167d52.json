@@ -82,6 +82,29 @@
       ],
       "tags": [],
       "uuid": "08b0b42a-4059-409d-96c9-a303f2da22fe"
+    },
+    {
+      "start_time": 39,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Indoor view of the first floor hallway of the "
+            },
+            {
+              "text": "Visual Arts Building (VIA)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/visual-arts.php"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "324bb2e0-513b-474b-b2ce-2df9b698055f"
     }
   ],
   "set": "Default",
