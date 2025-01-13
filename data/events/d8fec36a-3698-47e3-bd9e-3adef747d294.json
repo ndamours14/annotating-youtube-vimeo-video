@@ -1,10 +1,10 @@
 {
   "audiovisual_files": {
     "1507824b-e768-4639-acff-c20e41782595": {
-      "label": "Rare Books Video",
+      "label": "360° Video",
       "is_offline": false,
       "file_url": "https://youtu.be/9WL0XmU7KA0?feature=shared",
-      "duration": 535,
+      "duration": 195,
       "caption_set": []
     }
   },
@@ -14,16 +14,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "1974 interview with Bruce Peel Special Collections librarian supervising the rare books collection at the University of Alberta library."
+          "text": "360° video tour of the University of Victoria. Video produced on October 19, 2016."
         }
       ]
     }
   ],
   "citation": "",
   "item_type": "Video",
-  "label": "In Touch with U: Rare Books",
+  "label": "360° University Tour! #UVicIn360",
   "created_at": "2025-01-13T18:36:10.785Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-01-13T18:46:55.770Z",
+  "updated_at": "2025-01-13T18:49:56.382Z",
   "updated_by": "ndamours14"
 }
