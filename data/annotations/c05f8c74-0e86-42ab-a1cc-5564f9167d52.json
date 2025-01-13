@@ -1,5 +1,43 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outdoor view of the "
+            },
+            {
+              "text": "Fine Arts Building (FIA)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php"
+            },
+            {
+              "text": ", the "
+            },
+            {
+              "text": "Phoenix Theatre (PNX)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/phoenix-theatre.php"
+            },
+            {
+              "text": ", and the "
+            },
+            {
+              "text": "Visual Arts Building (VIA)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/visual-arts.php"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "01f4f632-7aa4-4ec3-b874-65edcf523bde"
+    }
+  ],
   "set": "Default",
   "event_id": "d8fec36a-3698-47e3-bd9e-3adef747d294",
   "source_id": "1507824b-e768-4639-acff-c20e41782595"
