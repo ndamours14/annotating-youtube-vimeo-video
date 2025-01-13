@@ -36,6 +36,29 @@
       ],
       "tags": [],
       "uuid": "01f4f632-7aa4-4ec3-b874-65edcf523bde"
+    },
+    {
+      "start_time": 13,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Indoor view of the first floor entry to the "
+            },
+            {
+              "text": "Fine Arts Building (FIA)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/fine-arts.php"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b5e4b47b-30bd-40a4-982a-f38f5e0f998b"
     }
   ],
   "set": "Default",
