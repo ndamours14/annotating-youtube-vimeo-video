@@ -106,7 +106,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
+        },
+        {
+          "category": "Building Code",
+          "tag": "VIA"
+        }
+      ],
       "uuid": "08b0b42a-4059-409d-96c9-a303f2da22fe"
     },
     {
