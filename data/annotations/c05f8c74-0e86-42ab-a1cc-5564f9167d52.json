@@ -384,7 +384,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        },
+        {
+          "category": "Building Code",
+          "tag": "ELL"
+        }
+      ],
       "uuid": "ffc4558c-5f16-48f9-8690-fddeae7b1c44"
     },
     {
