@@ -243,7 +243,14 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Outdoor view of the inner courtyard of "
+              "text": "Outdoor view of the inner courtyard of the "
+            },
+            {
+              "text": "Cornett Building (COR)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/cornett.php"
+            },
+            {
+              "text": "."
             }
           ]
         }
