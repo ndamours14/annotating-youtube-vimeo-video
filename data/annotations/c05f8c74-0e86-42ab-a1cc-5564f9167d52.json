@@ -416,7 +416,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        },
+        {
+          "category": "Building Code",
+          "tag": "ECS"
+        }
+      ],
       "uuid": "ad77c65d-adea-4f1e-9aff-10ce53630e30"
     },
     {
