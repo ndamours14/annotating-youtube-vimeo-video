@@ -234,6 +234,22 @@
       ],
       "tags": [],
       "uuid": "32ed3c37-4541-4ad9-9bb8-11f1c4b98faf"
+    },
+    {
+      "start_time": 118,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outdoor view of the inner courtyard of "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fef40862-9e24-4596-9ed2-e5e6fd5f3291"
     }
   ],
   "set": "Default",
