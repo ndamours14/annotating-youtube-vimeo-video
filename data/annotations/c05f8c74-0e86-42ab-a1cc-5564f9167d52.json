@@ -211,6 +211,29 @@
       ],
       "tags": [],
       "uuid": "a3b0f5b7-4638-4f58-ba26-ab1b234fd571"
+    },
+    {
+      "start_time": 104,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outdoor view of the entrance to the "
+            },
+            {
+              "text": "First Peoples House (FPH)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/first-peoples-house.php"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "32ed3c37-4541-4ad9-9bb8-11f1c4b98faf"
     }
   ],
   "set": "Default",
