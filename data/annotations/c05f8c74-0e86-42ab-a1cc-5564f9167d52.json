@@ -326,6 +326,29 @@
       ],
       "tags": [],
       "uuid": "f059496f-2ea1-458c-a73d-1714098ff43e"
+    },
+    {
+      "start_time": 168,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outdoor view of the fountain outside of the "
+            },
+            {
+              "text": "McPherson Library (LIB)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/mcpherson-library.php"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44f4429f-71cb-4405-a24e-d66a007df43e"
     }
   ],
   "set": "Default",
