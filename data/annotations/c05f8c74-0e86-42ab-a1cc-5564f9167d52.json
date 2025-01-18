@@ -74,7 +74,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Indoor"
+        },
+        {
+          "category": "Building Code",
+          "tag": "FIA"
+        }
+      ],
       "uuid": "b5e4b47b-30bd-40a4-982a-f38f5e0f998b"
     },
     {
