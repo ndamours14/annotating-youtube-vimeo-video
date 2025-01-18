@@ -280,6 +280,29 @@
       ],
       "tags": [],
       "uuid": "ffc4558c-5f16-48f9-8690-fddeae7b1c44"
+    },
+    {
+      "start_time": 142,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outdoor view of the entrance to the "
+            },
+            {
+              "text": "Engineering and Computer Science Building (ECS)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/engineering-computer-science.php"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ad77c65d-adea-4f1e-9aff-10ce53630e30"
     }
   ],
   "set": "Default",
