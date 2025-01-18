@@ -320,7 +320,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        },
+        {
+          "category": "Building Code",
+          "tag": "FPH"
+        }
+      ],
       "uuid": "32ed3c37-4541-4ad9-9bb8-11f1c4b98faf"
     },
     {
