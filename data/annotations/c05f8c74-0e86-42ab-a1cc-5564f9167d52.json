@@ -158,6 +158,36 @@
       ],
       "tags": [],
       "uuid": "c4d2ff49-ad88-4594-92cd-fe114fa7a20c"
+    },
+    {
+      "start_time": 78,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outdoor view of the Quad, near the "
+            },
+            {
+              "text": "First Peoples House (FPH)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/first-peoples-house.php"
+            },
+            {
+              "text": " and the "
+            },
+            {
+              "text": "Cornett Building (COR)",
+              "link": "https://www.uvic.ca/search/maps-buildings/buildings/cornett.php"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2426019-dd24-4e37-88b1-92523e07055e"
     }
   ],
   "set": "Default",
