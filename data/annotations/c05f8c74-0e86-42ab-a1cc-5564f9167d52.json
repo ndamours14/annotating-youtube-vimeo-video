@@ -188,6 +188,22 @@
       ],
       "tags": [],
       "uuid": "e2426019-dd24-4e37-88b1-92523e07055e"
+    },
+    {
+      "start_time": 91,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outdoor view of the entrance to "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a3b0f5b7-4638-4f58-ba26-ab1b234fd571"
     }
   ],
   "set": "Default",
