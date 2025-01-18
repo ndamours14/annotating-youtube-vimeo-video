@@ -349,6 +349,22 @@
       ],
       "tags": [],
       "uuid": "44f4429f-71cb-4405-a24e-d66a007df43e"
+    },
+    {
+      "start_time": 187,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "End credits."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bb025bf3-8987-423c-907f-44e2b05af176"
     }
   ],
   "set": "Default",
