@@ -177,7 +177,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        },
+        {
+          "category": "Building Code",
+          "tag": "FIA"
+        },
+        {
+          "category": "Building Code",
+          "tag": "PNX"
+        }
+      ],
       "uuid": "319d4701-1e25-4dc6-b409-a1387cca62fc"
     },
     {
