@@ -257,6 +257,29 @@
       ],
       "tags": [],
       "uuid": "fef40862-9e24-4596-9ed2-e5e6fd5f3291"
+    },
+    {
+      "start_time": 130,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outdoor view of a walkway near the "
+            },
+            {
+              "text": "Elliott Building (ELL)",
+              "link": "https://uvic.ca/search/maps-buildings/buildings/elliott.php"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ffc4558c-5f16-48f9-8690-fddeae7b1c44"
     }
   ],
   "set": "Default",
