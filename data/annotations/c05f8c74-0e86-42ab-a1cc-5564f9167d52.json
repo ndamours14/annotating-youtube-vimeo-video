@@ -34,7 +34,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        },
+        {
+          "category": "Building Code",
+          "tag": "FIA"
+        },
+        {
+          "category": "Building Code",
+          "tag": "PNX"
+        },
+        {
+          "category": "Building Code",
+          "tag": "VIA"
+        }
+      ],
       "uuid": "01f4f632-7aa4-4ec3-b874-65edcf523bde"
     },
     {
