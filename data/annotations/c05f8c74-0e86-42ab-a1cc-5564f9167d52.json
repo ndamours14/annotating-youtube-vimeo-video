@@ -252,7 +252,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Indoor/Outdoor",
+          "tag": "Outdoor"
+        },
+        {
+          "category": "Building Code",
+          "tag": "FPH"
+        },
+        {
+          "category": "Building Code",
+          "tag": "COR"
+        }
+      ],
       "uuid": "e2426019-dd24-4e37-88b1-92523e07055e"
     },
     {
