@@ -15,6 +15,22 @@
       ],
       "tags": [],
       "uuid": "974a8315-5336-4be6-892a-833c25c50400"
+    },
+    {
+      "start_time": 14,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First page of book is shown."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "54475c57-76b7-4162-8586-d96d89907d29"
     }
   ],
   "event_id": "c7b3a90b-5405-4f00-9ea3-21d8e3768ae8",
