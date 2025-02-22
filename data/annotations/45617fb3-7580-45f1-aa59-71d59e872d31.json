@@ -47,22 +47,6 @@
       ],
       "tags": [],
       "uuid": "9b78b835-ded1-43b2-a23a-fc9e9a0f21ce"
-    },
-    {
-      "start_time": 28,
-      "end_time": 32,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Third page of book is shown."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "c18bb7ef-4372-42cb-8f23-4b10a993d005"
     }
   ],
   "event_id": "c7b3a90b-5405-4f00-9ea3-21d8e3768ae8",
