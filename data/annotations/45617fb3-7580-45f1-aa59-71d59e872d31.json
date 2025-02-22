@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Front and back cover of book are shown."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "974a8315-5336-4be6-892a-833c25c50400"
+    }
+  ],
   "event_id": "c7b3a90b-5405-4f00-9ea3-21d8e3768ae8",
   "set": "Once Upon a House Annotations",
   "source_id": "90b60f02-32de-4633-bd9d-863f33953ded"
