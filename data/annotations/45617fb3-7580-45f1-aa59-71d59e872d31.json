@@ -31,22 +31,6 @@
       ],
       "tags": [],
       "uuid": "54475c57-76b7-4162-8586-d96d89907d29"
-    },
-    {
-      "start_time": 22,
-      "end_time": 28,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Second page of book is shown."
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "9b78b835-ded1-43b2-a23a-fc9e9a0f21ce"
     }
   ],
   "event_id": "c7b3a90b-5405-4f00-9ea3-21d8e3768ae8",
