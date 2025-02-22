@@ -31,6 +31,22 @@
       ],
       "tags": [],
       "uuid": "54475c57-76b7-4162-8586-d96d89907d29"
+    },
+    {
+      "start_time": 42,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Book is closed and put aside."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0ba2b08b-aeed-4f28-9b79-11a2bfe84384"
     }
   ],
   "event_id": "c7b3a90b-5405-4f00-9ea3-21d8e3768ae8",
