@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "d8fec36a-3698-47e3-bd9e-3adef747d294",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-01-13T18:36:10.953Z",
   "created_by": "ndamours14",
   "title": "360° University Tour! #UVicIn360",
   "slug": "360-university-tour-uvicin360",
-  "updated_at": "2025-01-13T18:36:10.953Z",
+  "updated_at": "2025-02-22T22:28:49.989Z",
   "updated_by": "ndamours14",
   "parent": "e011e4b0-a008-4383-b6d5-1dbaf6ec5dbc",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "d8fec36a-3698-47e3-bd9e-3adef747d294"
   }
