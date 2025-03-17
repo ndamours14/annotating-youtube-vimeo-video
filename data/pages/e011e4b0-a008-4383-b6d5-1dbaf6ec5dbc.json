@@ -3,10 +3,10 @@
   "created_at": "2025-01-13T18:33:18.448Z",
   "created_by": "ndamours14",
   "title": "Annotating a YouTube or Vimeo Video",
-  "updated_at": "2025-03-17T20:27:07.520Z",
+  "updated_at": "2025-03-17T20:30:16.452Z",
   "updated_by": "ndamours14",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   },
   "slug": "annotating-a-youtube-or-vimeo-video"
