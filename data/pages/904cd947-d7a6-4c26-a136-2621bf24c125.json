@@ -35,11 +35,11 @@
   "created_by": "ndamours14",
   "title": "360° University Tour! #UVicIn360",
   "slug": "360-university-tour-uvicin360",
-  "updated_at": "2025-02-22T22:29:00.593Z",
+  "updated_at": "2025-03-17T20:27:10.664Z",
   "updated_by": "ndamours14",
   "parent": "e011e4b0-a008-4383-b6d5-1dbaf6ec5dbc",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "d8fec36a-3698-47e3-bd9e-3adef747d294"
   }
